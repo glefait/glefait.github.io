@@ -1,0 +1,20 @@
+remote_theme: fongandrew/hydeout
+
+url: ""
+baseurl: ""
+
+title:            Guillem Lefait
+description:      Data Butcher. CDO @<a href="https://holimetrix.com/">Holimetrix</a>, CEO @<a href="https://datamq.com/">DataMQ</a>
+
+author:
+  name:           Guillem Lefait
+  url:            https://guillem.lefait.fr/
+  email:          guillem@lefait.fr
+  twitter_username: guillem_lefait
+  github_username:  glefait
+  linkedin_username:  glefait
+  stackoverflow_url:  https://stackoverflow.com/users/3090365/glefait
+
+paginate:   5
+comments:           false
+sidebar_home_link:  true
