@@ -1,15 +1,19 @@
-FROM jekyll/builder
-
-WORKDIR /tmp
-ADD Gemfile /tmp/
-ADD Gemfile.lock /tmp/
-RUN bundle update
-RUN bundle install
+# FROM jekyll/builder
+#
+# WORKDIR /tmp
+# ADD Gemfile /tmp/
+# #ADD Gemfile.lock /tmp/
+# RUN bundle update
+# RUN gem install jekyll
+# RUN bundle install
 
 FROM jekyll/jekyll
+ADD Gemfile .
+RUN bundle update
+RUN bundle install
 
 VOLUME /src
 EXPOSE 4000
 
 WORKDIR /src
-ENTRYPOINT ["jekyll", "serve", "--verbose", "-H", "0.0.0.0"
+CMD ["jekyll", "serve", "--verbose", "-H", "0.0.0.0"]
