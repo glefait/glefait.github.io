@@ -73,7 +73,7 @@ Il y a trois particularités qui permettent d'avoir une situation moins problém
 
 L'utilisation généralisée de la voiture plutôt que d'un transport en commun et le fait qu'à priori et le climat, à priori moins favorable pour le virus, sont des facteurs intéressants. On en reviendrait presque à apprécier les retards de livraison du TCSP.
 
-L'insularité permet également d'imaginer, sauf à accueillir l'ensemble des italiens croisiéristes contaminés pour leur vendre notre rhum à tout prix (coucou les malins députés et sénateurs qui ont introduit le Duty Free pour les croisiéristes subventionnés avec nos impôts), que notre territoire va se retrouver en décalage du pic d'intensité sur les autres territoires. C'est intéressant puisque ça permet de gagner du temps et donc à la fois de mieux comprendre le virus et d'avoir eu le temps d'évaluer l'impact de telle ou telle politique.
+L'insularité permet également d'imaginer, sauf à accueillir l'ensemble des italiens croisiéristes contaminés pour leur vendre notre rhum à tout prix (coucou les malins députés et sénateurs qui ont introduit le [Duty Free pour les croisiéristes subventionnés](/tourisme/2019/11/26/dutyfree-la-niche-fiscale-de-la-resignation.html) avec nos impôts), que notre territoire va se retrouver en décalage du pic d'intensité sur les autres territoires. C'est intéressant puisque ça permet de gagner du temps et donc à la fois de mieux comprendre le virus et d'avoir eu le temps d'évaluer l'impact de telle ou telle politique.
 
 D'autres particularités sont beaucoup moins favorables :
 - Population agée : +20 points de population fragile
