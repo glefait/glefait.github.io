@@ -3,7 +3,7 @@ layout: post
 title: Coronageddon, le virus et l'insularité
 excerpt_separator:  <!--more-->
 categories:
-  - santé, data
+  - data
 tags:
   - martinique
 ---
