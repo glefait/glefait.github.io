@@ -126,4 +126,6 @@ En dehors de la recherche médicale, l'effort devrait être porté vers la massi
 
 Or pour réduire ce facteur, il faut mieux comprendre les conditions qui permettent la contamination. Ce qui se fait via du contact tracing, pas avec une app bricolée par des SSII.
 
+Pour réduire les besoins en tests, des solutions alternatives existent : détecter des signes faibles (changement rythme cardiaque, taux d'oxygène, ...), mélanger des prélévements et faire une recherche binaire en cas de résultat positif, [test des canalisations sanitaires](https://twitter.com/CrowdvBank/status/1254004789488185344) pour évaluer le nombre de personnes contaminées sur un quartier (voire réussir à les traquer en continuant à prélever en suivant les canalisations), ... .
+
 Autre point d'inquiétude, le développement parallèles d'une myriade d'applications de ce style. Exemple à la réunion ou des confrères ultramarins développent une solution adhoc appelée [https://www.franceinter.fr/sciences/covid-19-la-reunion-premier-departement-a-beneficier-d-un-application-d-alerte]("Alertanoo").
