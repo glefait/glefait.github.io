@@ -1,0 +1,9 @@
+That website is a static website hosted on github.
+Play nice.
+
+If you find any issue with a project I was part of:
+- I welcome any non spammy report
+- that report can be sent as soon as an issue is identified
+- Unless you're a very good writer, I prefer short reports
+- you will be thanked
+- If I don't fix or answer within 90 days, you're welcome to make it public

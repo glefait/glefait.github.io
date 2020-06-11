@@ -16,4 +16,4 @@ VOLUME /src
 EXPOSE 4000
 
 WORKDIR /src
-CMD ["jekyll", "serve", "--verbose", "-H", "0.0.0.0"]
+CMD ["jekyll", "serve", "--drafts", "--verbose", "-H", "0.0.0.0"]

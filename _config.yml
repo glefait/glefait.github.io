@@ -18,3 +18,7 @@ author:
 paginate:   5
 comments:           false
 sidebar_home_link:  true
+show_drafts: false
+
+include:
+ - .well-known
