@@ -42,7 +42,7 @@ Si prendre contact et réaliser le suivi prends largement plus de temps que l'id
 
 Sachant qu'au bout, un simple remerciement n'est même pas acquis, la conséquence est que ce genre de remontées n'est pas systématique.
 
-Pas de complexe à avoir, c'est la même chose partout et c'est dommage.
+Pas de complexe à avoir, c'est la même chose ailleurs et c'est dommage.
 
 # This is america !
 
@@ -50,7 +50,7 @@ Pas de complexe à avoir, c'est la même chose partout et c'est dommage.
 
 Comment faire mieux ?
 
-1. Créez un fichier [.well_known/security.txt](https://securitytxt.org/) ainsi qu'une adresse email dédiée à la sécurité. Ca prends 10 minutes ([exemple](/.well_known/security.txt)). Disons 2 heures en prenant le temps de définir le champs `Policy`, qui permet de spécifier le périmètre d'analyse acceptable et le format attendu : un rapport précis ou un retour informel au plus tôt.
+1. Créez un fichier [.well-known/security.txt](https://securitytxt.org/) ainsi qu'une adresse email dédiée à la sécurité. Ca prends 10 minutes ([exemple](/.well-known/security.txt)). Disons 2 heures en prenant le temps de définir le champs `Policy`, qui permet de spécifier le périmètre d'analyse acceptable et le format attendu : un rapport précis ou un retour informel au plus tôt.
 
 2. Traitez les remontées en répondant rapidement (après avoir filtré le spam et la merde). Rien de pire que ne pas savoir si le message a bien été reçu ou s'il a atterrit dans une poubelle.
 
