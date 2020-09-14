@@ -8,7 +8,7 @@ permalink: /security-log
 # 2020
 
 ## Web, [SFR Caraibes](https://www.sfrcaraibe.fr/)
-Identify the leak of personal data when, while being loggued, through a modified query to a webservice. Under review.
+Identify the leak of personal data when, while being loggued, through a modified query to a webservice. Found a sha1 password sent on the account page. Confirmed and solved.
 
 ## Web, [Odyssi](https://www.odyssi.fr/)
 Identify the leak of personal data when, unlogged, through a modified query to a webservice. Confirmed and solved.
