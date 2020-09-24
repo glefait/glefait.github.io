@@ -7,6 +7,9 @@ permalink: /security-log
 
 # 2020
 
+## Web/Internet gateway, [SFR](https://www.sfr.fr/) 
+Testing a SFR Internet Gateway beta firmware. 2 of the 6 vulnerability have been fixed. WIP PoC for the others.
+
 ## Web, [SFR Caraibes](https://www.sfrcaraibe.fr/)
 Identify the leak of personal data when, while being loggued, through a modified query to a webservice. Found a sha1 password sent on the account page. Confirmed and solved.
 
@@ -14,7 +17,7 @@ Identify the leak of personal data when, while being loggued, through a modified
 Identify the leak of personal data when, unlogged, through a modified query to a webservice. Confirmed and solved.
 
 ## Web/Internet gateway, [SFR](https://www.sfr.fr/) 
-Report 6 vulnerabilities (at least 1 already known) on the SFR gateway. Under review.
+Report 6 vulnerabilities (at least 1 already reported) on the SFR gateway. Reviewed, asked to test the next beta version.
 
 # 2019
 
