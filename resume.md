@@ -53,3 +53,7 @@ Poc was on a Python/Js/Redis/MongoDB stack.
 
 ### Cookie map
 Identify on which websites a cookie pattern can be found.
+
+## Security
+
+- [root-me profile](https://www.root-me.org/glefait?inc=statistiques&lang=fr)
