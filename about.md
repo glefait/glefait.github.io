@@ -22,7 +22,7 @@ Arrivé fin 2016 en Martinique, pour suivre ma compagne martiniquaise, on a déc
 
 * CDO @[TVTY](https://tvty.tv) : Valorisation d'un inventaire de détection TV multi pays. Measure d'impact du média TV sur le traffic web, la notoriété et le comportement d'achat. Full remote.
 
-* CEO @[DataMQ](https://datamq.com) : cabinet de conseil data.
+* Freelance @[DataMQ](https://datamq.com) : cabinet de conseil data / lab.
 
 ## Previous
 

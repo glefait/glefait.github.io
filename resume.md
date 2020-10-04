@@ -21,7 +21,7 @@ Consulting company to work on local data and experimental projects.
 Developped the blockchain ledger of the [zerochlordecone](https://www.zerochlordecone.com/) project (hyperledger and BigChainDB).
 
 ## 2016 - 2020: CDO [Holimetrix](https://holimetrix.com)
-Focus was to lead and grow data team (0 to 5) and to improve product accuracy. Upgrade the stack to spark and python.
+Focus was to lead and grow data team (0 to 5) and to improve product scalability/accuracy. Upgrade the stack to spark and python.
 
 Become full remote, from Martinique, in 2017.
 
