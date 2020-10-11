@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carnet de rappel : solution RGPD low tech pour les restaurants
+title: Carnet de rappel, solution RGPD low tech pour les restaurants
 excerpt_separator:  <!--more-->
 categories:
   - privacy
@@ -16,8 +16,6 @@ Si des solutions techniques existent, une solution simple peut-être aussi mise 
 ![Outside a Restaurant in the Bois de Boulogne, Hugo Birger](/images/restaurant-carnet.jpg)
 
 <!--more-->
-
-
 
 La CNIL a partagé un [ensemble de recommandations](https://www.cnil.fr/fr/covid-19-et-les-cahiers-de-rappel-les-recommandations-de-la-cnil), ainsi qu'un [template de formulaire](https://www.cnil.fr/fr/cahier-de-rappel-exemples-de-formulaire-de-recueil-de-donnees-et-mentions-dinformation-rgpd#mod%C3%A8le%201).
 
