@@ -62,6 +62,6 @@ Si le fichier a un mot de passe facilement trouvable, quelle est l'objectif de l
 
 Dans le cadre d'une prévisualisation via google drive, depuis une addresse gmail, le mot de passe est transmis et semble être stocké tant que le focus est sur l'email.
 
-![password protected document](images/password-protected-document-password-posted.png)
+![password protected document](/images/password-protected-document-password-posted.png)
 
 Est-ce qu'un document protégé mais prévisualisé est crawlé ou indexé ? A priori, ce n'est pas le cas sur google.
