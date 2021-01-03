@@ -7,7 +7,7 @@ permalink: /resume
 
 This is a short resume. A detailed resume with references can be provided upon request.
 
-
+# Experiences
 ## 2020 - now: CDO [TVTY](https://tvty.tv)
 TVTY acquired Holimetrix (it was the TV crawler solution used by Holimetrix).
 
@@ -44,7 +44,12 @@ Stack: Java, Hadoop Map/Reduce, Redis, JS
 Thesis was on Distributed Hierarchical Clustering.
 Contribution was an optimized version of the Shared Nearest Neighbour algorithm and a data structure to manipulate efficiently hierarchies.
 
-## Failed/paused projects
+# Security
+
+- [security log of resposible disclosure sent](/security-log)
+- [root-me profile](https://www.root-me.org/glefait?inc=statistiques&lang=fr)
+
+# Failed/paused projects
 
 ### Startup School 2018 [Anonymous DMP](https://www.startupschool.org/companies/dmp-io)
 The objective was to combine short lifetime ids with full data control from users (who collect what, when, where and deletion options).
@@ -53,7 +58,3 @@ Poc was on a Python/Js/Redis/MongoDB stack.
 
 ### Cookie map
 Identify on which websites a cookie pattern can be found.
-
-## Security
-
-- [root-me profile](https://www.root-me.org/glefait?inc=statistiques&lang=fr)
