@@ -40,14 +40,14 @@ Retour sur les divulgations responsables réalisées ([security log](/security-l
 - Présence du mot de passe SHA1 non salé dans la page et possiiblité d'accéder aux préférences RGPD des comptes.
 - Email envoyé à SFR Caraibes
 
-```
-1. Les mots de passes de connexion à l'espace client sont stockés en SHA1, sans sel.
+
+> 1. Les mots de passes de connexion à l'espace client sont stockés en SHA1, sans sel.
 En se logguant puis en se rendant sur https://espaceclient.sfrcaraibe.fr/compte/r-moncomptePrincipal.php, on voit que le champs mot de passe est remplie, par la valeur hashée (SHA1) du mot de passe de connexion.
 La connexion est sécurisée, donc l'impact est faible. Mais en cas d'attaque de la DB de connexion, les mots de passes seront retrouvés de façon triviale.
-
-2. Accès aux préférences de gestion des données personnelles. La page https://espaceclient.sfrcaraibe.fr/rgpd/r-donneespersonnelles.php, est obtenue avec un ID (l'ID contrat). En passant un autre ID que le sien (tout en étant logué), il semble possible de récupérer les choix réalisés.
+>
+>2. Accès aux préférences de gestion des données personnelles. La page https://espaceclient.sfrcaraibe.fr/rgpd/r-donneespersonnelles.php, est obtenue avec un ID (l'ID contrat). En passant un autre ID que le sien (tout en étant logué), il semble possible de récupérer les choix réalisés.
 Dans le pire des cas, il serait alors possible également de les modifier, ce qui bien sur pose problème puisque ces préférences sont ensuite utilisées pour partager de l'information avec des tiers.
-```
+
 
 Le point 1. est validé mais SFR ne croit pas au point 2.
 
