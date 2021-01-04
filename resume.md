@@ -16,9 +16,11 @@ Focus was to merge capabilities and data from both entities to offer new product
 Stack: Python, Sql, Js, Spark
 
 ## 2017 - now: DataMQ
-Consulting company to work on local data and experimental projects.
-
-Developped the blockchain ledger of the [zerochlordecone](https://www.zerochlordecone.com/) project (hyperledger and BigChainDB).
+- Data analytics with carfully acquired by [zotcar](https://www.zotcar.com/)
+- Build fiscal and payment-due period simulators for [FEDOM](https://fedom.org/)
+- Build the blockchain ledger of the [zerochlordecone](https://www.zerochlordecone.com/) project (hyperledger and BigChainDB).
+- Create the APIs and pricing models of a [real-estate pricing simulator](https://www.jesimule.immo/).
+- Speaker for several events ([OSE2019](https://www.ose-martinique.com/#edition2019), [Zilea](http://www.zilea-martinique.com), [Martinique Tech](https://martiniquetech.com/), [NLabs](https://www.facebook.com/NLabs97/posts/1680291895416501))
 
 ## 2016 - 2020: CDO [Holimetrix](https://holimetrix.com)
 Focus was to lead and grow data team (0 to 5) and to improve product scalability/accuracy. Upgrade the stack to spark and python.
