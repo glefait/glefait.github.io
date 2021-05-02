@@ -3,7 +3,7 @@ layout: post
 title: Opendata - démonstration avec la gestion des déchets de la Cacem
 excerpt_separator:  <!--more-->
 categories:
-  - open data, cada 
+  - opendata 
 tags:
   - martinique
 ---
