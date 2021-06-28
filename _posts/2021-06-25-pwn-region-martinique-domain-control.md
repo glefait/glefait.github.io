@@ -87,12 +87,24 @@ Cette solution a été choisie par M.S et si elle m'arrange, je sais aussi que �
 
 # That's ongoing !
 
-L'opération est toujours en cours. Prochaines étapes :
-1. Fin de la suppression des emails (ETA probablement le 27)
-2. Finalisation du transfert (ETA : juillet ?)
-3. Le remboursement du domaine sera versé à une association en perso directement par S.M vu la difficulté de le faire via les canaux de la CTM
-4. Mise en place d'un fichier security.txt par la CTM
-5. Decommissionnement propre du domaine par la CTM. Sinon, l'année prochaine je recommence.
+Finished operations
+
+1. Routage des emails vers l'infra CTM. Installation de la redirection le 25 Juin à 16h UTC.
+2.  Suppression sécurisée des emails finalisée le 25 Juin à 23h UTC. 5 heures de traitement car présence de nombreux fichiers (1 par email)
+```
+$ time srm -vrz Maildir/
+[...]
+Removed directory Maildir/ ... Done
+real    295m45.299s
+user    0m3.041s
+sys     0m51.707s
+``` 
+
+Opérations toujours en cours :
+- Finalisation du transfert par Dom-Enic (document de transfert transmis le 23 Juin 2021, ETA : juillet ?)
+- Le remboursement du domaine sera versé à une association en perso directement par S.M vu la difficulté de le faire via les canaux de la CTM
+- Mise en place d'un fichier security.txt par la CTM
+- Decommissionnement propre du domaine par la CTM. Sinon, l'année prochaine je recommence.
 
 ## Conclusions
 
