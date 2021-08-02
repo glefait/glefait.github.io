@@ -5,13 +5,45 @@ sidebar_link: true
 permalink: /security-log
 ---
 
+# 2021
+
+## Web [CTM](https://www.collectivitedemartinique.mq/)
+Identify an SQL injection vulnerable service and multiple information exposure.
+
+* First contact: TBD
+* Status: unreported
+
+## Web [CTM](https://www.collectivitedemartinique.mq/)
+Identify an SQL injection vulnerable service.
+
+* First contact: 29th July 2021.
+* Status: WIP
+
+## Web [Cesecem](https://www.cesecem.mq/)
+Identify an accessible installation plugin page that could allow to insert external content on an institutional website.
+
+* First contact: 28th July 2021.
+* Resolved: 28th July 2021.
+
+## Web [TBA]()
+Identify two leaks of personal data that allow to retrieve the user database through simple pagination (completely in the first case, partially in the second case).
+
+* First contact: 21st July 2021 + 25th July 2021
+* Resolved: 23rd July 2021 + 26th July 2021
+
+## Org [CTM](https://www.collectivitedemartinique.mq/)
+Identify a deprecated (but still used) domain not renewed. PoC (traffic + email catchall) that domain acquisition could create confidentiality, privacy and security issues. Domain is being transfered back to CTM.
+
+* First contact: 20th June 2021.
+* Status: WIP with the domain registar [Dom-Enic](https://www.dom-enic.com/). Following recommendation, CTM installed a [security.txt](https://www.collectivitedemartinique.mq/.well-known/security.txt).
+
 # 2020
 
 ## Web, [Orange](https://www.orange.fr/)
 Identify the leak of personal data through dorking. 
 
 * First contact: 13th December 2020.
-* Status: waiting for answer
+* Resolved: ?. No answer from Orange. Problem looks fixed and robots.txt was added as recommended.
 
 ## Web, [SFR Caraibes](https://www.sfrcaraibe.fr/)
 Identify the leak of personal data when, while being loggued, through a modified query to a webservice. Found a sha1 password sent on the account page. Confirmed and solved.
