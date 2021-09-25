@@ -36,7 +36,7 @@ Arrivé fin 2016 en Martinique, pour suivre ma compagne martiniquaise, on a déc
 
 ## Interests
 
-* Securité: [profil root-me](https://www.root-me.org/glefait), [security book](/security-book)
+* Securité: [profil root-me](https://www.root-me.org/glefait), [security log](/security-log)
 
 * Bot detection
 
