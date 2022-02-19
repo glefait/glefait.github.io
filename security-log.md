@@ -35,7 +35,7 @@ Identify two leaks of personal data that allow to retrieve the user database thr
 Identify a deprecated (but still used) domain not renewed. PoC (traffic + email catchall) that domain acquisition could create confidentiality, privacy and security issues. Domain is being transfered back to CTM.
 
 * First contact: 20th June 2021.
-* Status: WIP with the domain registar [Dom-Enic](https://www.dom-enic.com/). Following recommendation, CTM installed a [security.txt](https://www.collectivitedemartinique.mq/.well-known/security.txt).
+* Resolved: between 2021-10-04 and 2022-02-19. Following recommendation, CTM installed a [security.txt](https://www.collectivitedemartinique.mq/.well-known/security.txt).
 
 # 2020
 

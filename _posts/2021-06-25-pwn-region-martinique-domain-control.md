@@ -85,9 +85,9 @@ Cette solution a été choisie par M.S et si elle m'arrange, je sais aussi que �
 
 
 
-# That's ongoing !
+# That's over. 
 
-Finished operations
+## Finished operations
 
 1. Routage des emails vers l'infra CTM. Installation de la redirection le 25 Juin à 16h UTC.
 2.  Suppression sécurisée des emails finalisée le 25 Juin à 23h UTC. 5 heures de traitement car présence de nombreux fichiers (1 par email)
@@ -99,11 +99,13 @@ real    295m45.299s
 user    0m3.041s
 sys     0m51.707s
 ``` 
+3. Finalisation du transfert par Dom-Enic. Document de transfert transmis le 23 Juin 2021, ETA initial: juillet, réalisé entre octobre 2021 et février 2022.
+4. Le remboursement du domaine sera versé à une association en perso directement par S.M vu la difficulté de le faire via les canaux de la CTM
+![Don de 50€ à Open Street Map versé directement par M. S](/images/ctm-2021-m.s-don-openstreetmap.png)
+5. Mise en place d'un fichier [security.txt](https://www.collectivitedemartinique.mq/.well-known/security.txt) par la CTM 
 
-Opérations toujours en cours :
-- Finalisation du transfert par Dom-Enic (document de transfert transmis le 23 Juin 2021, ETA : juillet ?)
-- Le remboursement du domaine sera versé à une association en perso directement par S.M vu la difficulté de le faire via les canaux de la CTM
-- Mise en place d'un fichier security.txt par la CTM
+
+## Opérations toujours en cours :
 - Decommissionnement propre du domaine par la CTM. Sinon, l'année prochaine je recommence.
 
 ## Conclusions
