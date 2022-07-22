@@ -9,13 +9,13 @@ tags:
 ---
 ## TLDR;
 
-Au dela d'un certains nombre de faits et de généralités sur les réseaux d'eau en Martinique, quelques éléments **nouveaux** sont présentés.
+Au delà d'un certain nombre de faits et de généralités sur les réseaux d'eau en Martinique, quelques éléments **nouveaux** sont présentés.
 
-Je remercie d'ailleurs la Cacem de m'avoir motivé à écrire cet article, puisque c'est en me refusant l'accès à des documents publics sous de prétextes fallacieux, qu'il m'a semblait y avoir matière à creuser.
+Je remercie d'ailleurs la Cacem de m'avoir motivé à écrire cet article, puisque c'est en me refusant l'accès à des documents publics sous des prétextes fallacieux, qu'il m'a semblait y avoir matière à creuser.
 
-Seront donc montré que les **engagements de suivi** pris, notamment par la CTM, la Cacem et la préfecture, lors de la signature du contrat de progrès **n'ont pas été respectés** (du tout), que **des taxes indues sont perçues** sur les abonnements et que **les mécanismes d'incitation fiscale** pour améliorer les réseaux **n'ont pas été utilisés**.
+Sera donc montré que les **engagements de suivi** pris, notamment par la CTM, la Cacem et la préfecture, lors de la signature du contrat de progrès **n'ont pas été respectés** (du tout), que **des taxes indues sont perçues** sur les abonnements et que **les mécanismes d'incitation fiscale** pour améliorer les réseaux **n'ont pas été utilisés**.
 
-Au delà de ma posture évidemment critique (peut-être un peu facile depuis mon confortable fauteuil d'observateur), je tiens néanmoins à souligner que plusieurs personnes, anonymes ou de structures diverses, m'ont aidé ou m'ont répondu plutôt aimablement, parfois sans comprendre pourquoi je les interrogeaient.
+Au delà de ma posture évidemment critique (peut-être un peu facile depuis mon confortable fauteuil d'observateur), je tiens néanmoins à souligner que plusieurs personnes, anonymes ou de structures diverses, m'ont aidé ou m'ont répondu plutôt aimablement, parfois sans comprendre pourquoi je les interrogeais.
 Malheureusement, ces personnes ne sont pas représentatives des administrations (locales ou nationales) qui ne semblent trouver aucun intérêt à une ouverture des données, à faciliter la lecture de documents publics puis s'étonnent de l'abstention à chaque élection.
 ![The Gulf Stream](/images/winslow-homer-the-gulf-stream.jpeg)
 
@@ -35,7 +35,7 @@ Voici donc l'ensemble des points qui seront abordés. Un lien vers chaque partie
 4. [L’Office de l’Eau Martinique (ODE) n’a pas utilisé le mécanisme d’incitation à l’amélioration des réseaux en décidant de ne pas doubler la taxe de prélèvement alors même que ce mécanisme de doublement est parfaitement décrit](#4-mauvaise-utilisation-des-incitations-fiscales)
 5. [L’octroi de mer régional est prélevé sur le montant des abonnements, contrairement au droit et à l’interprétation de la Chambre régionale des comptes](#5-taxation-indue-de-loctroi-de-mer-régional) 
 6. [Des acteurs couvrant l'ensemble des responsabilités en Martinique qui s'engagent ... au moins pour la photo](#6-des-acteurs-présents-à-la-signature)
-7. [Les objectifs prévus dans le contrat de progrès ne sont absolument pas atteints, soit-ils suivis ?](#7-des-indicateurs-en-dehors-des-objectifs-du-contrat)
+7. [Les objectifs prévus dans le contrat de progrès ne sont absolument pas atteints, sont-ils suivis ?](#7-des-indicateurs-en-dehors-des-objectifs-du-contrat)
 8. [Surprise, l’ensemble du comité de suivi a été défaillant en n’ayant jamais respecté, en 4 ans sur les 5 du contrat, la méthodologie définie, signée par toutes les parties et rendue publique](#8-un-comité-de-suivi-défaillant-et-la-mauvaise-foi-de-la-cacem-sous-fond-daccès-aux-données)
 9. [La Cacem et Odyssi, se présentant comme une équipe expérimentée, semblent incapables d’utiliser les outils juridiques pour faire respecter les contrats signés](#9-des-bases-juridiques-maitrisées-)
 
@@ -46,7 +46,7 @@ Rappelons qu’une coupure d’eau implique de ne plus avoir d’eau courante. P
 Au-delà de l’inconfort individuel d’une coupure d’eau en climat tropical, des infrastructures collectives sont également impactées. Cantines et établissements scolaires fermés. Lieux publics ou privés recevant du public dégradés ou fermés. Ces coupures ont donc également des impacts économiques indirects importants. 
 En 2020, en Martinique, des quartiers ont été privés d’eau de façon ininterrompue pendant presque un mois.
 
-Etrange pour une île ? Pas exactement. Une île est entourée d’eau salée, inutilisable sauf à la dessaler. Si des forages peuvent permettre de produire une ressource, avec une capacité maximale estimée en 2006 à 30 millions de m³/an, la majorité (94%) des ressources actuelles prélevées pour la production d’eau potable (40 millions de m³/an) provient d’une captation de surface.
+Étrange pour une île ? Pas exactement. Une île est entourée d’eau salée, inutilisable sauf à la dessaler. Si des forages peuvent permettre de produire une ressource, avec une capacité maximale estimée en 2006 à 30 millions de m³/an, la majorité (94%) des ressources actuelles prélevées pour la production d’eau potable (40 millions de m³/an) provient d’une captation de surface.
 
 Aussi, tant la ressource disponible en surface que la ressource souterraine déjà exploitée ou potentiellement exploitable peuvent répondre sur le papier aux besoins du territoire (autour de 25 millions de m³/an).
 
@@ -64,11 +64,11 @@ A titre d’exemple, observons l’indicateur P151.1 pour Odyssi sur l’année 
 
 
 ![Indicateur P.151 vs VP.077 (log scale)](/images/2020-vp077-P151.1.png)
-*Fig 1. : taux d’incident et taille de réseau. Les réseaux de la Martinique sont mis en avant. Bien que le réseau de la CACEM ne soit pas parmi les plus performants, celui n'apparaît pas complètement en dehors du nuage de points.*
+*Fig 1. : taux d’incident et taille de réseau. Les réseaux de la Martinique sont mis en avant. Bien que le réseau de la CACEM ne soit pas parmi les plus performants, celui-ci n'apparaît pas complètement en dehors du nuage de points.*
 
 
 Cette qualité du réseau est également mesurée par son rendement ([P104.3](https://www.services.eaufrance.fr/indicateurs/P104.3)), qui décrit la situation à un moment `T`. 
-L’évolution de ce rendement au fil du temps permets de mettre en évidence l’efficacité des mesures engagées pour l’améliorer.
+L’évolution de ce rendement au fil du temps permet de mettre en évidence l’efficacité des mesures engagées pour l’améliorer.
 D'une part le rendement est mauvais mais d’autre part, il ne semble pas y avoir une amélioration nette et durable de ce rendement. 
 En 2020, M. Pacquit, Président d’Odyssi et Vice-Président de la Cacem indiquait lors d’une [émission TV](https://www.facebook.com/watch/live/?ref=watch_permalink&v=263431801471662&t=920) 
 > quand on dit qu’Odyssi perd 2 piscines olympiques par jour, c’est une insulte. [...] c’est plus qu’un mensonge, c’est une insulte”. 
@@ -89,7 +89,7 @@ Dans le rapport d’activité 2006, pour l’indicateur rendement, le commentair
 
 
 # 2. Les durées d’amortissement choisies sont inadaptées
-Car l’amélioration du rendement d’un réseau n’est pas trivial, et ce d’autant plus aux Antilles où les risques naturels ont des impacts forts sur les matériels. Sismicité, ouragan, glissements de terrain sont des réalités qui fragilisent et dégradent de façon accéléré l’ensemble des infrastructures.
+Car l’amélioration du rendement d’un réseau n’est pas trivial, et ce d’autant plus aux Antilles où les risques naturels ont des impacts forts sur les matériels. Sismicité, ouragan, glissements de terrain sont des réalités qui fragilisent et dégradent de façon accélérée l’ensemble des infrastructures.
 
 Néanmoins, si ces contraintes existent, qu’elles sont connues, qu’elles ne vont pas disparaître par magie, elles doivent accroître le niveau d’exigence pour permettre d’y faire face. 
 Premièrement, comme le réseau est soumis à des contraintes particulières réelles, il est nécessaire de les renouveler plus souvent et donc de budgéter ce remplacement plus fréquent. 
@@ -144,7 +144,7 @@ Cette fiabilisation des indicateurs est d’ailleurs une première étape néces
 # 4. Mauvaise utilisation des incitations fiscales
 
 En 2012, un décret fixe un seuil minimal de 85% de rendement et définit dans l’article [L213-14-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033033671/) un mécanisme d’incitation à l’amélioration de la performance des réseaux en doublant le taux de redevance pour prélèvement lorsque la connaissance réseau et le rendement sont en dessous des seuils minimaux. 
-La figure 8 décrit les conditions dans lesquelles s’appliquent ce doublement.
+La figure 8 décrit les conditions dans lesquelles s’applique ce doublement.
 
 ![Arbre décision analyse situation](/images/mecanisme-doublement-redevance-prelevement.png)
 *Fig. 8 : conditions du doublement du taux de la redevance (source : [eau seine Normandie](http://www.eau-seine-normandie.fr/sites/public_file/inline-files/plaquette_dblmt_AEP_1.pdf))*
@@ -162,7 +162,7 @@ Ainsi, en décidant de ne pas doubler ce taux, l’ODE n’utilise pas pleinemen
 
 # 5. Taxation indue de l’octroi de mer régional
 
-Relevé par [@le_merou](https://twitter.com/le_merou2), l’assiette de l’octroi de mer regional (taux de 1.5% en Martinique contre 1% en Guadeloupe) se base à la fois sur la facturation de l’eau produite, ce qui est attendu, mais également sur l’abonnement et les redevances préservation et pollution, reversé à l’ODE en Martinique.
+Relevé par [@le_merou](https://twitter.com/le_merou2), l’assiette de l’octroi de mer régional (taux de 1.5% en Martinique contre 1% en Guadeloupe) se base à la fois sur la facturation de l’eau produite, ce qui est attendu, mais également sur l’abonnement et les redevances préservation et pollution, reversé à l’ODE en Martinique.
 
 Concernant l’abonnement, dans un [rapport de 2020 sur la gestion de l’octroi de mer](https://www.ccomptes.fr/sites/default/files/2021-02/RAN2020-0753.pdf), la Chambre régionale des comptes de Guadeloupe relève, page 50 :
 > En outre, plusieurs opérateurs prélèvent en sus l’octroi de mer sur la partie abonnement de la facture qui, étant un service, n’y est pas soumis (Eau d’Excellence, la régie Nord-Caraïbes -RéNoC-, Karuker’Ô, Eaux Nodis et le SIAEAG) et doivent rembourser ce trop-perçu prélevé indûment sur leurs abonnés.
@@ -183,9 +183,9 @@ En 2019, l’ensemble des opérateurs ont prélevé l’octroi de mer sur la par
 |-------------------------------------------------------------------------------------------------------------------|------------------------|--------------------------|------------------|--------------|
 | **Total**                                                                                                         |                        |                          |                  | **165113**   |
 
-*Tableau 1 : montant de l'abonnement et montant de l'octroi de mer régional (taux de 1.5%) induement prélevé*
+*Tableau 1 : montant de l'abonnement et montant de l'octroi de mer régional (taux de 1.5%) indûment prélevé*
 
-Si le montant est dérisoire face au budget de la CTM, il montre néanmoins la mauvaise compréhension fiscale d’une taxe spécifique locale que l’ensemble des acteurs politiques locaux ont pourtant souhaités maintenir. Car à la multitude de taux et d'exonérations diverses, s’ajoute également la difficulté à définir l’assiette dans des produits composés : puisque si la vente de produit est taxable, les services ne le sont pas.
+Si le montant est dérisoire face au budget de la CTM, il montre néanmoins la mauvaise compréhension fiscale d’une taxe spécifique locale que l’ensemble des acteurs politiques locaux ont pourtant souhaité maintenir. Car à la multitude de taux et d'exonérations diverses, s’ajoute également la difficulté à définir l’assiette dans des produits composés : puisque si la vente de produit est taxable, les services ne le sont pas.
 
 Ajoutons de la complexité en considérant la redevance ODE vue précédemment. Actuellement (en 2019), cette redevance fait partie de l’assiette de l’octroi de mer sur l’ensemble des territoires. Or doit-elle réellement l’être ? 
 Avant d’être intégrée à Odyssi, la ville de Schoelcher utilisait la SMDS, sans production locale[^3]. En sus du prix d’achat de l’eau, qui devait incorporer l’octroi de mer régional, les redevances de l’ODE étaient également présentes, sans être soumises à l’OMR. 
@@ -225,7 +225,7 @@ Trois blocs sont présents : la Cacem, la CTM (avec une majorité différente de
 
 Ce contrat de progrès définit plusieurs critères objectifs permettant de mesurer l’augmentation progressive de la qualité du réseau.
 
-La figure 9 présente l’évolution attendue des indicateurs de rendement et de connaissance des réseaux et les compare avec le niveau réel constaté et rendu public dans les différents rapports d’activité. Les objectifs ne sont clairement pas atteints et ne présente aucune tendance qui puisse laisser penser qu’il le seront avant la fin du contrat prévue, l’année prochaine, en 2023.
+La figure 9 présente l’évolution attendue des indicateurs de rendement et de connaissance des réseaux et les compare avec le niveau réel constaté et rendu public dans les différents rapports d’activité. Les objectifs ne sont clairement pas atteints et ne présentent aucune tendance qui puisse laisser penser qu’ils le seront avant la fin du contrat prévue, l’année prochaine, en 2023.
 
 ![comparaison indicateurs prévus vs réalité](/images/comparaison-indicateurs-contrat-de-progres-et-realite.png)
 *Figure 9 : comparaison des objectifs définis dans le contrat de progrès et constatés sur le rendement (en bleu) et sur la connaissance du réseau (en orange)*
@@ -256,7 +256,7 @@ Rien de formel ?
 Alors même que tous les indicateurs sont défaillants. 
 Alors même que la sécheresse de 2020 a montré les limites du réseau actuel. 
 Alors même que ce contrat est à la fois un engagement vis-à-vis de l'État qui est censé pouvoir débloquer des lignes de crédit sur la base du respect de ces engagements. 
-Alors même que ce contrat était brandie à la population pour montrer l’engagement de tous les intervenants politiques.
+Alors même que ce contrat était brandi à la population pour montrer l’engagement de tous les intervenants politiques.
 
 Rien donc. Un désert d’action entourant une oasis imaginaire de bonnes résolutions.
 
@@ -265,7 +265,7 @@ Rien donc. Un désert d’action entourant une oasis imaginaire de bonnes résol
 
 Que vaut donc un contrat signé ? 
 Probablement pas grand choses pour des acteurs habitués à ne pas respecter les contrats et symétriquement, à ne pas faire respecter les contrats signés avec d’autres.
-La encore, l’interview d’Yvon Paquit est saisissante : (il est ici question de l’action en justice entamé par les habitants privés d’eau pendant presque 1 mois) 
+Là encore, l’interview d’Yvon Paquit est saisissante : (il est ici question de l’action en justice entamée par les habitants privés d’eau pendant presque 1 mois) 
 > La seule structure qui soit condamnée en justice c’est Odyssi. Et qu’est-ce que nous devrions faire, parallélisme des formes.
 > Puisqu’on nous dit, vous avez un contrat, respectez-le, et bien nous allons demander à la SME de respecter son contrat et on verra ce que dira le juge.
 
@@ -282,8 +282,8 @@ La première conclusion est que les acteurs, par flemme, par manque de temps (co
 Traiter le problème de l'eau nécessiterait d'avoir une personne dédiée à ce seul problème, qui aurait les moyens d'enquêter et de déclencher des actions en cas de non réalisation des objectifs.
 
 La deuxième conclusion est qu'il y a de la matière dans les rapports.
-Et pourtant, parce que les collectivités n'entretiennent pas de canaux de communication "ouvert" avec la société civile, ces rapports sont finalement très utilisés (utiles). 
-Alors qu'on parle de décolonialisation, probablement à juste titre, comment est-ce que les administrations se comportent avec les citoyens ? 
+Et pourtant, parce que les collectivités n'entretiennent pas de canaux de communication "ouvert" avec la société civile, ces rapports sont finalement très peu utilisés (utiles). 
+Alors qu'on parle de décolonisation, probablement à juste titre, comment est-ce que les administrations se comportent avec les citoyens ? 
 
 *Parallélisme des formes* ?
 
