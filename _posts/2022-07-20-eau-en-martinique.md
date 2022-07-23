@@ -291,5 +291,5 @@ Alors qu'on parle de décolonisation, probablement à juste titre, comment est-c
 
 [^1]: como agua de Mayo : tomber à pic
 [^2]: Théorique car le nombre d’impayés est élevé
-[^3]: Le forage Emma Absalon existait mais n’avait pas pas reçu l’autorisation de mise en service de la préfecture
+[^3]: Le forage Emma Absalon existait mais n’avait pas reçu l’autorisation de mise en service de la préfecture
 [^4]: devenu OFB en 2019
