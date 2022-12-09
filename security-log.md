@@ -5,13 +5,33 @@ sidebar_link: true
 permalink: /security-log
 ---
 
+# 2022
+
+## Web [payzen](https://paizen.io/)
+Identify data leak (personnal details + credit card information) on wrongly implemented websites
+
+* First contact: 2022-12-09
+* Status: reported
+
+## Web [CTM](https://www.collectivitedemartinique.mq/)
+Identify a debug plugin activated that can provide database credentials when exception is generated
+
+* First contact: 2022-12-03
+* Status: acknowledged
+
+## App [Carrefour Martinique](https://play.google.com/store/apps/details?id=com.carrefourmq)
+Identify an unsolved data leak that can allow a person to use the reward of another person
+
+* First contact: 2022-09-05
+* Status: reported
+
 # 2021
 
 ## Web [CTM](https://www.collectivitedemartinique.mq/)
 Identify an SQL injection vulnerable service and multiple information exposure.
 
 * First contact: TBD
-* Status: unreported
+* Status: domain deactivated
 
 ## Web [CTM](https://www.collectivitedemartinique.mq/)
 Identify an SQL injection vulnerable service.
@@ -40,7 +60,7 @@ Identify a deprecated (but still used) domain not renewed. PoC (traffic + email 
 # 2020
 
 ## Web, [Orange](https://www.orange.fr/)
-Identify the leak of personal data through dorking. 
+Identify the leak of personal data through dorking.
 
 * First contact: 13th December 2020.
 * Resolved: ?. No answer from Orange. Problem looks fixed and robots.txt was added as recommended.
@@ -57,7 +77,7 @@ Identify the leak of personal data when, unlogged, through a modified query to a
 * First contact: 25th June 2020.
 * Resolved: 26th June 2020.
 
-## Web/Internet gateway, [SFR](https://www.sfr.fr/) 
+## Web/Internet gateway, [SFR](https://www.sfr.fr/)
 Report 6 vulnerabilities (at least 1 already reported) on the SFR gateway. Reviewed, asked to test the next beta version.
 
 * First contact: 8th June 2020.
