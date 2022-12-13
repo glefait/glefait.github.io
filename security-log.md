@@ -7,11 +7,11 @@ permalink: /security-log
 
 # 2022
 
-## Web [payzen](https://paizen.io/)
-Identify data leak (personnal details + credit card information) on wrongly implemented websites
+## Web lib
+Identify data leak (personnal details + partial credit card details) on wrongly implemented (and badly secured) websites using the payzen lib.
 
 * First contact: 2022-12-09
-* Status: reported
+* Status: acknowledged
 
 ## Web [CTM](https://www.collectivitedemartinique.mq/)
 Identify a debug plugin activated that can provide database credentials when exception is generated
