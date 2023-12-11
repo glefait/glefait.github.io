@@ -5,6 +5,57 @@ sidebar_link: true
 permalink: /security-log
 ---
 
+# 2023
+
+## TBD
+Undeleted data (cache ?) that exposes personal and sensitive data in breach of their own GDPR contract.
+
+* First contact: 2022-12-06
+* Status: informally acknowledged by phone - in progress
+
+## TBD
+SQL injection that allows to extract a platform production database.
+
+* First contact: 2022-11-16
+* Status: acknowledged - in progress
+
+## TBD
+SQL injection that allows to extract (deprecated ?) database on a territorial collectivity sub-entity
+
+* First contact: 2022-11-17
+* Status: no answser, email sent again the 2023-12-11
+
+## TBD
+Unprotected route in mobile app that allows to access customer receipts for a large retailer in Martinique.
+
+* First contact: 2022-10-31
+* Status: acknowledged
+
+## TBD
+SQL injection that allows to extract production database + configuration file disclosure on a territorial collectivity subdomain
+
+* First contact: 2022-10-23
+* Status: acknowledged
+
+## TBD
+SQL injection that allows to extract production database of a for a large retailer in Martinique.
+
+* First contact: 2022-10-18
+* Status: acknowledged
+
+## TBD
+SQL injection that allows to extract production database for a web-facing service.
+
+* First contact: 2022-10-16
+* Status: acknowledged
+
+## Web [CTM](https://www.collectivitedemartinique.mq/)
+Identify a local file access on a voting application that can allow an attacker to read arbitrary file on server (like configuration files) and access voting personal details (name, email) through the use of a token 
+
+* First contact: 2023-10-01
+* Status: [published directly](https://guillem.lefait.fr/martinique/2023/10/01/revue-de-code-via-acces-document-administratif.html) as the application is now offline. Never ackowledged by the CTM.
+
+
 # 2022
 
 ## Web lib
