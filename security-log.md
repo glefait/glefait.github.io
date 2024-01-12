@@ -10,43 +10,43 @@ permalink: /security-log
 ## TBD
 Undeleted data (cache ?) that exposes personal and sensitive data in breach of their own GDPR contract.
 
-* First contact: 2022-12-06
+* First contact: 2023-12-06
 * Status: informally acknowledged by phone - in progress
 
 ## TBD
 SQL injection that allows to extract a platform production database.
 
-* First contact: 2022-11-16
+* First contact: 2023-11-16
 * Status: acknowledged - in progress
 
 ## TBD
 SQL injection that allows to extract (deprecated ?) database on a territorial collectivity sub-entity
 
-* First contact: 2022-11-17
+* First contact: 2023-11-17
 * Status: no answser, email sent again the 2023-12-11
 
 ## TBD
 Unprotected route in mobile app that allows to access customer receipts for a large retailer in Martinique.
 
-* First contact: 2022-10-31
+* First contact: 2023-10-31
 * Status: acknowledged
 
 ## TBD
 SQL injection that allows to extract production database + configuration file disclosure on a territorial collectivity subdomain
 
-* First contact: 2022-10-23
+* First contact: 2023-10-23
 * Status: acknowledged
 
 ## TBD
 SQL injection that allows to extract production database of a for a large retailer in Martinique.
 
-* First contact: 2022-10-18
+* First contact: 2023-10-18
 * Status: acknowledged
 
 ## TBD
 SQL injection that allows to extract production database for a web-facing service.
 
-* First contact: 2022-10-16
+* First contact: 2023-10-16
 * Status: acknowledged
 
 ## Web [CTM](https://www.collectivitedemartinique.mq/)
