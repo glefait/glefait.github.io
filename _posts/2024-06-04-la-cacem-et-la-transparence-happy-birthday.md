@@ -5,7 +5,7 @@ excerpt_separator:  <!--more-->
 categories:
   - martinique
 tags:
-  - security
+  - cada
 ---
 
 ## TL;DR
@@ -19,11 +19,11 @@ On va reprendre le document présenté en défense et montrer que la position de
 - ma demande est mal comprise
 - pinaillage sur des détails (mais qui sont néanmoins des erreurs de ma part)
 
-
 ![https://www.youtube.com/watch?v=1Duiup2tWKA](/images/shadock-passoire-nouille.png)
+<!--more-->
 
+## Contexte
 
-# Contexte
 C'est ma troisième affaire devant le tribunal administratif de la Martinique contre la Cacem sur une problématique liée à la transmission de documents administratifs.
 
 Lors des deux premières affaires, regroupées en une seule, si le tribunal avait demandé à ce que la CACEM communique les documents, celle-ci avait joué la montre, et j'avais dû à nouveau saisir le tribunal pour faire exécuter le jugement.

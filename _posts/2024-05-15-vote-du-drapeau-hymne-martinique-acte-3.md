@@ -15,9 +15,8 @@ Comme un territoire sans hymne.
 
 Car si le "tac pitac pitac tac" retenti dans les campagnes, frappé sur des canalisations vides, rythmant le passage de l'eau sur un rythme, rien n'est plus défini sur ce qui doit résonner dans les stades pour proclamer que celle-ci ou celui-là, est Martiniquais-e.
 
-
-
 ![Aline Goder : https://www.martinique.franceantilles.fr/actualite/vielocale/mon-travail-est-respecte-car-jai-ete-formee-par-des-maitres-du-tambour-194110.php](/images/tambour-mq.png)
+<!--more-->
 
 
 ## Contexte
