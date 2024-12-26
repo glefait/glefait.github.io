@@ -7,44 +7,44 @@ permalink: /security-log
 
 # 2023
 
-## TBD
-Undeleted data (cache ?) that exposes personal and sensitive data in breach of their own GDPR contract.
+## AFNIC
+Undeleted data  that exposes personal and sensitive data in breach of their own GDPR contract.
 
 * First contact: 2023-12-06
-* Status: informally acknowledged by phone - in progress
+* Status: informally acknowledged by phone - solved
 
-## TBD
+## International mobility platform 
 SQL injection that allows to extract a platform production database.
 
 * First contact: 2023-11-16
-* Status: acknowledged - in progress
+* Status: acknowledged - solved
 
-## TBD
+## [CTM](https://www.collectivitedemartinique.mq/)
 SQL injection that allows to extract (deprecated ?) database on a territorial collectivity sub-entity
 
 * First contact: 2023-11-17
-* Status: no answser, email sent again the 2023-12-11
+* Status: no answser, email sent again the 2023-12-11. 
 
-## TBD
+## Large Group in Martinique and beyond
 Unprotected route in mobile app that allows to access customer receipts for a large retailer in Martinique.
 
 * First contact: 2023-10-31
-* Status: acknowledged
+* Status: solved.
 
-## TBD
+## Espace Sud
 SQL injection that allows to extract production database + configuration file disclosure on a territorial collectivity subdomain
 
 * First contact: 2023-10-23
-* Status: acknowledged
+* Status: solved.
 
-## TBD
+## Large Group in Martinique and beyond.
 SQL injection that allows to extract production database of a for a large retailer in Martinique.
 
 * First contact: 2023-10-18
 * Status: acknowledged
 
-## TBD
-SQL injection that allows to extract production database for a web-facing service.
+## Dom-Enic (Groupe Canal+).
+SQL injection that allows to extract production database for a critical web-facing service (`.mq` and `.gf` registrar).
 
 * First contact: 2023-10-16
 * Status: acknowledged
