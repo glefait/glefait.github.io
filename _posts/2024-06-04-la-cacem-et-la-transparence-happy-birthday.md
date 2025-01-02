@@ -15,9 +15,10 @@ Alors quand j'en reçois un, le jour de mon anniversaire, je sais qu'il n'y a pa
 
 On va reprendre le document présenté en défense et montrer que la position de la CACEM n'a aucun sens :
 - les documents sont communicables, l'administration le comprend donc ils sont fournis
-- la CACEM confirme son refus de communiquer les documents (au moins avant le passage devant le tribunal)
-- ma demande est mal comprise
+- ma demande est sur interprétée
 - pinaillage sur des détails (mais qui sont néanmoins des erreurs de ma part)
+- la CACEM confirme son refus de communiquer les documents (au moins avant le passage devant le tribunal)
+- la CACEM semble ignorer les modifications du 1er juillet 2022 sur la publication obligatoire de de
 
 ![https://www.youtube.com/watch?v=1Duiup2tWKA](/images/shadock-passoire-nouille.png)
 <!--more-->
@@ -124,6 +125,7 @@ Pour cela rien de plus simple, il faut juste envoyer un email à une adresse imp
 Bien sûr, peut-être ai-je mal cherché. Bien sûr, peut-être que google ou duckduckgo et tout les autres sont mauvais. Tout est possible.
 
 ![Accès facile au document, il suffit de trouver le bon email](/images/cacem-no-results-found.png)
+![Le réglement de la CACEM est-il sur le darkweb ?](/images/cacem-no-reglement-online.png)
 
 Or s'il est possible que tout soit possible, il est aussi parfaitement certain que le 1er juillet 2022, la possibilité de demander communication d'un procès-verbal, a été complété par une nouvelle disposition qui indique que la publication de ces procès-verbaux est obligatoire.
 
