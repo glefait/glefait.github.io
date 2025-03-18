@@ -5,10 +5,25 @@ sidebar_link: true
 permalink: /security-log
 ---
 
+# 2025
+
+## TBC
+Presence of personal data on an indexed public website.
+
+* First contact: 2025-03-05
+* Status: in progress
+
+# 2024
+## Cap Nord
+Presence of personal data through an indirect join between "anonymised" datasets in an invitation to tender of more than 100 millions euros.
+
+* First contact: 2024-02-23
+* Status: solved
+
 # 2023
 
 ## AFNIC
-Undeleted data  that exposes personal and sensitive data in breach of their own GDPR contract.
+Undeleted data that exposes personal and sensitive data in breach of their own GDPR contract.
 
 * First contact: 2023-12-06
 * Status: informally acknowledged by phone - solved
