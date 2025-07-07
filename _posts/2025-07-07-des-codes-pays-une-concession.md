@@ -16,6 +16,8 @@ Point sur l'état actuel avec un focus sur la situation en Martinique.
 
 Quelques remarques sur le marché : du bon (un retour vers la normalité et la cybersécurité), du moins bon (chiffrage peu réaliste du marché, non prise en compte des acteurs locaux) et de l'innatendu (préparer à une re-délégation).
 
+![Metro Traffic Control, by Chris Faust](/images/metro-traffic-control.jpeg)
+
 <!--more-->
 
 ## Contexte
